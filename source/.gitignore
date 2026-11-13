@@ -1,0 +1,17 @@
+.qiaomu/launch-state.json
+node_modules/
+dist/
+test-results/
+playwright-report/
+.DS_Store
+evidence/
+data/
+.env*
+release/
+design-previews/roles/*.png
+design-previews/scenes/*.png
+design-previews/news/*.png
+design-previews/actions/*.png
+design-previews/map/*.png
+design-previews/perks/*.png
+design-previews/vips/*.png
